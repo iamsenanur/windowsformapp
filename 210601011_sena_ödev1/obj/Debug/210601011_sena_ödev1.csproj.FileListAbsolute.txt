@@ -1,0 +1,11 @@
+C:\Users\Şilan\Desktop\210601011_Odev1\210601011_sena_ödev1\210601011_sena_ödev1\obj\Debug\210601011_sena_ödev1.csproj.AssemblyReference.cache
+C:\Users\Şilan\Desktop\210601011_Odev1\210601011_sena_ödev1\210601011_sena_ödev1\obj\Debug\210601011_sena_ödev1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şilan\Desktop\210601011_Odev1\210601011_sena_ödev1\210601011_sena_ödev1\obj\Debug\_210601011_sena_ödev1.Form1.resources
+C:\Users\Şilan\Desktop\210601011_Odev1\210601011_sena_ödev1\210601011_sena_ödev1\obj\Debug\_210601011_sena_ödev1.Properties.Resources.resources
+C:\Users\Şilan\Desktop\210601011_Odev1\210601011_sena_ödev1\210601011_sena_ödev1\obj\Debug\210601011_sena_ödev1.csproj.GenerateResource.cache
+C:\Users\Şilan\Desktop\210601011_Odev1\210601011_sena_ödev1\210601011_sena_ödev1\obj\Debug\210601011_sena_ödev1.csproj.CoreCompileInputs.cache
+C:\Users\Şilan\Desktop\210601011_Odev1\210601011_sena_ödev1\210601011_sena_ödev1\bin\Debug\210601011_sena_ödev1.exe.config
+C:\Users\Şilan\Desktop\210601011_Odev1\210601011_sena_ödev1\210601011_sena_ödev1\bin\Debug\210601011_sena_ödev1.exe
+C:\Users\Şilan\Desktop\210601011_Odev1\210601011_sena_ödev1\210601011_sena_ödev1\bin\Debug\210601011_sena_ödev1.pdb
+C:\Users\Şilan\Desktop\210601011_Odev1\210601011_sena_ödev1\210601011_sena_ödev1\obj\Debug\210601011_sena_ödev1.exe
+C:\Users\Şilan\Desktop\210601011_Odev1\210601011_sena_ödev1\210601011_sena_ödev1\obj\Debug\210601011_sena_ödev1.pdb
